@@ -1,3 +1,3 @@
 # tugasakhirtpm
 
-A new Flutter project.
+Aplikasi "CS:GO SKINS"
